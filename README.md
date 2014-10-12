@@ -5,13 +5,13 @@ Street: Korai 40, Volos 38333, Greece <br>
 Mobile: (+30)6983624162 <br>
 E-mail: anthouliastopas@gmail.com <br>
 
-Sex Male | Date of birth 16/04/1990 | Nationality Greek 
+Sex: Male | Date of birth: 16/04/1990 | Nationality: Greek 
 
-WORK EXPERIENCE	  
+Work Experience: <br>	  
 
-1/7/2014-31/8/2014	Computer engineer
-	Municipality of Rhodes
-	▪	Installation and maintenance of computers, servers, networks, and peripherals
+July - August 2014,	Computer engineer<br>
+	Internship at Municipality of Rhodes<br>
+	Installation and maintenance of computers, servers, networks, and peripherals<br>
 	
 
 EDUCATION AND TRAINING	  
