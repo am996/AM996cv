@@ -41,19 +41,19 @@ Setup and Management of an apache web server, servlets, and our own site.
 (October 2014 – December 2014)
 
 ▪	Programming Languages & Compilers (with term Project): 
-Implementation of the lexical analyzer and parser of a custom programming language.
+Implementation of the lexical analyzer and parser of a custom programming language. <br>
 (November 2011 – December 2011)
 
 ▪	Programming II (with term Project): 
-A Java applet that displays the beauty of fractals dynamically. It supports Zoom and Ruler Display in order to keep track of the coordinates.
+A Java applet that displays the beauty of fractals dynamically. It supports Zoom and Ruler Display in order to keep track of the coordinates.<br>
 (April 2011 – May 2011)
 
 ▪	Operating Systems (with term Project):
-Modifications on Minix Kernel using Virtual Machine: System calls, Routing Policies and profiling, Slob memory allocator and external fragmentation’s measurements, C-LOOK I/O scheduler.
+Modifications on Minix Kernel using Virtual Machine: System calls, Routing Policies and profiling, Slob memory allocator and external fragmentation’s measurements, C-LOOK I/O scheduler.<br>
 (May 2010 – June 2010)
 
 ▪	 Programming I (with term Project):
-Creation of our own Arkanoid-like game in C language.
+Creation of our own Arkanoid-like game in C language.<br>
 (November 2008 – December 2008)
 
 <h4> Personal Skills: </h4>
