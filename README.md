@@ -20,10 +20,6 @@ July - August 2014,	Computer engineer<br>
 	Diploma in Computer Engineering and Telecommunications	
 	Department of Electrical and Computer Engineering, University of Thessaly, Greece<br>
 
-Programming Languages: C, Java, MIPS Assembly, HTML 5, CSS, Sql<br>
-
-Tools: Netbeans, Eclipse, Pspice, OpenGL, Matlab, Xcas, TeXMacs, AutoCAD, Flex, Bison<br>
-
 2005 - 2008 1st High School of Rhodes, Rhodes, Greece<br>
 
 <b>Courses and Projects: </b>
@@ -33,6 +29,10 @@ Tools: Netbeans, Eclipse, Pspice, OpenGL, Matlab, Xcas, TeXMacs, AutoCAD, Flex, 
 ▪	WWW Technologies<br>
 ▪	Computer Organisation & Design<br>
 ▪	Distributed Systems<br>
+
+▪Programming Languages: C, Java, MIPS Assembly, HTML 5, CSS, Sql<br>
+
+▪Tools: Netbeans, Eclipse, Pspice, OpenGL, Matlab, Xcas, TeXMacs, AutoCAD, Flex, Bison<br>
 
 
 ▪	WWW Technologies (with term Project):
