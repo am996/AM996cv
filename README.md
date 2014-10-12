@@ -7,7 +7,7 @@ E-mail: anthouliastopas@gmail.com <br>
 
 Sex: Male | Date of birth: 16/04/1990 | Nationality: Greek 
 
-<h4>Work Experience:  </h4> <br>
+<h4>Work Experience:  </h4> 
 
 July - August 2014,	Computer engineer<br>
 	Internship at Municipality of Rhodes<br>
