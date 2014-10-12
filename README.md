@@ -16,11 +16,11 @@ July - August 2014,	Computer engineer<br>
 
 <h4>Education and Training: </h4>	  
 
-2008 - 2016(expected) <br>
+2008 - 2016(expected): <br>
 	Diploma in Computer Engineering and Telecommunications	
 	Department of Electrical and Computer Engineering, University of Thessaly, Greece<br>
 
-2005 - 2008 1st High School of Rhodes, Rhodes, Greece<br>
+2005 - 2008: 1st High School of Rhodes, Rhodes, Greece<br>
 
 <b>Courses: </b>
 
