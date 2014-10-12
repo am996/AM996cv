@@ -19,11 +19,6 @@ July - August 2014,	Computer engineer<br>
 2008 - 2016(expected) <br>
 	Diploma in Computer Engineering and Telecommunications	
 	Department of Electrical and Computer Engineering, University of Thessaly, Greece<br>
-▪	Parallel Programming<br>
-▪	Data Mining<br>
-▪	WWW Technologies<br>
-▪	Computer Organisation & Design<br>
-▪	Distributed Systems<br>
 
 Programming Languages: C, Java, MIPS Assembly, HTML 5, CSS, Sql<br>
 
@@ -31,42 +26,14 @@ Tools: Netbeans, Eclipse, Pspice, OpenGL, Matlab, Xcas, TeXMacs, AutoCAD, Flex, 
 
 2005 - 2008 1st High School of Rhodes, Rhodes, Greece<br>
 
+<b>Courses and Projects: </b>
 
-<b> Personal Skills </b>
+▪	Parallel Programming<br>
+▪	Data Mining<br>
+▪	WWW Technologies<br>
+▪	Computer Organisation & Design<br>
+▪	Distributed Systems<br>
 
-Mother tongue:	Greek <br>
-Other languages: English (Certificate of Proficiency in English (ECPE), University of Michigan)<br>
-French	Elementary proficient <br>
-
-Computer skills:	excellent command of Microsoft Office™ tools<br>
-
-Driving licence:	B
-
-ADDITIONAL INFORMATION	  
-
-Projects
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-References
 
 ▪	WWW Technologies (with term Project):
 Setup and Management of an apache web server, servlets, and our own site.
@@ -88,7 +55,16 @@ Modifications on Minix Kernel using Virtual Machine: System calls, Routing Polic
 Creation of our own Arkanoid-like game in C language.
 (November 2008 – December 2008)
 
+<b> Personal Skills </b>
 
-Upon request
+Mother tongue:	Greek <br>
+Other languages:<br> English (Certificate of Proficiency in English (ECPE), University of Michigan)<br>
+French	Elementary proficient <br>
+
+Computer skills:	excellent command of Microsoft Office™ tools<br>
+
+Driving licence:	B
+
+References upon request
 
 
