@@ -55,7 +55,7 @@ Modifications on Minix Kernel using Virtual Machine: System calls, Routing Polic
 Creation of our own Arkanoid-like game in C language.
 (November 2008 – December 2008)
 
-<h4> Personal Skills </h4>
+<h4> Personal Skills: </h4>
 
 Mother tongue:	Greek <br>
 Other languages:<br> English (Certificate of Proficiency in English (ECPE), University of Michigan)<br>
