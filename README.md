@@ -9,7 +9,7 @@ Sex: Male | Date of birth: 16/04/1990 | Nationality: Greek
 
 <h4>Work Experience:  </h4> 
 
-July - August 2014,	Computer engineer<br>
+July - August 2014:	Computer engineer<br>
 	Internship at Municipality of Rhodes<br>
 	Setup and maintenance of computers, servers, networks, and peripherals<br>
 	
