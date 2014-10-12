@@ -89,7 +89,7 @@ Projects
 
 References
 
-	▪	WWW Technologies (with term Project):
+▪	WWW Technologies (with term Project):
 Setup and Management of an apache web server, servlets, and our own site.
 (October 2014 – December 2014)
 
