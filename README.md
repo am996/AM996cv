@@ -7,14 +7,14 @@ E-mail: anthouliastopas@gmail.com <br>
 
 Sex: Male | Date of birth: 16/04/1990 | Nationality: Greek 
 
-<b>Work Experience:  </b> <br>
+<h4>Work Experience:  </h4> <br>
 
 July - August 2014,	Computer engineer<br>
 	Internship at Municipality of Rhodes<br>
 	Setup and maintenance of computers, servers, networks, and peripherals<br>
 	
 
-<b>Education and Training: </b>	  
+<h4>Education and Training: </h4>	  
 
 2008 - 2016(expected) <br>
 	Diploma in Computer Engineering and Telecommunications	
@@ -55,7 +55,7 @@ Modifications on Minix Kernel using Virtual Machine: System calls, Routing Polic
 Creation of our own Arkanoid-like game in C language.
 (November 2008 – December 2008)
 
-<b> Personal Skills </b>
+<h4> Personal Skills </h4>
 
 Mother tongue:	Greek <br>
 Other languages:<br> English (Certificate of Proficiency in English (ECPE), University of Michigan)<br>
