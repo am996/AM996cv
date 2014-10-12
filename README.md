@@ -1,13 +1,11 @@
-<h1>Alexandros Anthoulias-Topas</h1>
+<h2>Alexandros Anthoulias-Topas</h2>
 
-Personal Info: 
-Street: Korai 40, Volos 38333, Greece
-Mobile: (+30)6983624162
-E-mail: anthouliastopas@gmail.com
+Personal Info: <br>
+Street: Korai 40, Volos 38333, Greece <br>
+Mobile: (+30)6983624162 <br>
+E-mail: anthouliastopas@gmail.com <br>
 
-	
-	
-	Sex Male | Date of birth 16/04/1990 | Nationality Greek 
+Sex Male | Date of birth 16/04/1990 | Nationality Greek 
 
 WORK EXPERIENCE	  
 
