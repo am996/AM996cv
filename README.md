@@ -14,52 +14,33 @@ July - August 2014,	Computer engineer<br>
 	Setup and maintenance of computers, servers, networks, and peripherals<br>
 	
 
-EDUCATION AND TRAINING	  
+<b>Education and Training: </b>	  
 
-2008-2016(expected)
+2008 - 2016(expected) <br>
+	Diploma in Computer Engineering and Telecommunications	
+	Department of Electrical and Computer Engineering, University of Thessaly, Greece<br>
+▪	Parallel Programming<br>
+▪	Data Mining<br>
+▪	WWW Technologies<br>
+▪	Computer Organisation & Design<br>
+▪	Distributed Systems<br>
 
+Programming Languages: C, Java, MIPS Assembly, HTML 5, CSS, Sql<br>
 
+Tools: Netbeans, Eclipse, Pspice, OpenGL, Matlab, Xcas, TeXMacs, AutoCAD, Flex, Bison<br>
 
-
-
-
-
-
-
-
-
-2005 – 2008	Diploma in Computer Engineering and Telecommunications	
-	Department of Electrical and Computer Engineering, University of Thessaly, Greece
-▪	Parallel Programming
-▪	Data Mining
-▪	WWW Technologies
-▪	Computer Organisation & Design
-▪	Distributed Systems
-
-Programming Languages: C, Java, MIPS Assembly, HTML 5, CSS, Sql
-
-Tools: Netbeans, Eclipse, Pspice, OpenGL, Matlab, Xcas, TeXMacs, AutoCAD, Flex, Bison
-
-1st High School of Rhodes, Rhodes, Greece
+2005 - 2008 1st High School of Rhodes, Rhodes, Greece<br>
 
 
-PERSONAL SKILLS	  
+<b> Personal Skills </b>
 
-Mother tongue(s)	Greek
-	
-Other language(s)	UNDERSTANDING 	SPEAKING 	WRITING 
-	Listening 	Reading 	Spoken interaction 	Spoken production 	
-English	C2	C2	C2	C2	C1
-	Certificate of Proficiency in English (ECPE), University of Michigan
-French	A1	A1	A1	A1	
-	Elementary proficient
-	Levels: A1/2: Basic user - B1/2: Independent user - C1/2 Proficient user
-Common European Framework of Reference for Languages
+Mother tongue:	Greek <br>
+Other languages: English (Certificate of Proficiency in English (ECPE), University of Michigan)<br>
+French	Elementary proficient <br>
 
+Computer skills:	excellent command of Microsoft Office™ tools<br>
 
-Computer skills	▪	excellent command of Microsoft Office™ tools
-
-Driving licence	▪	B
+Driving licence:	B
 
 ADDITIONAL INFORMATION	  
 
