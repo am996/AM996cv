@@ -22,7 +22,7 @@ July - August 2014,	Computer engineer<br>
 
 2005 - 2008 1st High School of Rhodes, Rhodes, Greece<br>
 
-<b>Courses and Projects: </b>
+<b>Courses: </b>
 
 ▪	Parallel Programming<br>
 ▪	Data Mining<br>
@@ -30,10 +30,11 @@ July - August 2014,	Computer engineer<br>
 ▪	Computer Organisation & Design<br>
 ▪	Distributed Systems<br>
 
-▪Programming Languages: C, Java, MIPS Assembly, HTML 5, CSS, Sql<br>
+▪	Programming Languages: C, Java, MIPS Assembly, HTML 5, CSS, Sql<br>
 
-▪Tools: Netbeans, Eclipse, Pspice, OpenGL, Matlab, Xcas, TeXMacs, AutoCAD, Flex, Bison<br>
+▪	Tools: Netbeans, Eclipse, Pspice, OpenGL, Matlab, Xcas, TeXMacs, AutoCAD, Flex, Bison<br>
 
+<b>Projects: </b>
 
 ▪	WWW Technologies (with term Project):
 Setup and Management of an apache web server, servlets, and our own site.
